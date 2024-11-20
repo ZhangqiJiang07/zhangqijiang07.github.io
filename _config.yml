@@ -21,8 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhang-Qi Jiang\n\
-                      (姜璋琪)"
+  name             : |-
+                     Zhang-Qi Jiang
+                     (姜璋琪)
   avatar           : "images/my_photo_512x512.png"
   bio              : "National University of Defense Technology, M.S. Student"
   location         : "Changsha, China"
