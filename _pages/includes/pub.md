@@ -8,7 +8,7 @@
 **Zhangqi Jiang**, Tingjin Luo, Xinyan Liang
 
 _AAAI_, 2024 \\
-\[[**Code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]
+\[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]
 
 TL;DR: To tackle the double missing of features and labels problem, we propose a novel deep learning model by incorporating graph neural networks and semi-supervised learning.
 </div>
@@ -23,7 +23,7 @@ TL;DR: To tackle the double missing of features and labels problem, we propose a
 Ziling Fan$^{\dagger}$, **Zhangqi Jiang**$^{\dagger}$, Hengyu Liang, Chao Han
 
 _Bioinformatics Advances_, 2023 \\
-\[[**Code**](https://github.com/ZhangqiJiang07/MultimodalSurvivalPrediction)\]
+\[[**code**](https://github.com/ZhangqiJiang07/MultimodalSurvivalPrediction)\]
 
 TL;DR: A deep learning architecture to adaptively integrate multi-omics data (e.g., miRNA and CNV) for pancancer survival prediction.
 </div>
