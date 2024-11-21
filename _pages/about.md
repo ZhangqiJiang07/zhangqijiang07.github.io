@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -26,7 +26,7 @@ I work on **improving the reliability and safety of deep learning models**. Duri
 # News
 
 
-# Publications 
+{% include_relative includes/pub.md %}
 
 
 # Projects
