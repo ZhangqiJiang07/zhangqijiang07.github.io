@@ -7,7 +7,7 @@
 [Pancancer survival prediction using a deep learning architecture with multimodal representation and integration](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad006/6998218) \\
 Ziling Fan$^{\dagger}$, **Zhangqi Jiang**$^{\dagger}$, Hengyu Liang, Chao Han
 
-_Bioinformatics Advances_ 
+_Bioinformatics Advances_, 2023 \\
 \[[**Code**](https://github.com/ZhangqiJiang07/MultimodalSurvivalPrediction)\]
 
 TL;DR: 
