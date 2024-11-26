@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 Hi! I am a second-year M.S. student in *Systems Science* at [National University of Defense Technology](https://english.nudt.edu.cn/), advised by Assoc. Prof. [Tingjin Luo](https://horizonailab.github.io/homepage/). Previously, I was an undergraduate student in *Information and Computing Science* at [Shanxi Univeristy](https://www.sxu.edu.cn/).
 
-I work on **improving the reliability and safety of deep learning models**. During my Master’s program, I am interested in learning robust multi-view models against incomplete data with limited supervision information. Currently, I also research hallucinations in vision-language models, working with Assoc. Prof. [Xu Yang](https://yangxuntu.github.io/) from Southeast University.
+I work on **improving the reliability and safety of deep learning models**. During my Master’s program, I am interested in learning robust multi-view models against incomplete data and limited supervision information. Currently, I also research hallucinations in vision-language models, working with Assoc. Prof. [Xu Yang](https://yangxuntu.github.io/) from Southeast University.
 
 
 {% include_relative includes/news.md %}
