@@ -2,7 +2,7 @@
 # Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/middle_layers.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/middle_layers.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724) \\
