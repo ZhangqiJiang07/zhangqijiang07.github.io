@@ -8,7 +8,7 @@
 [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724) \\
 **Zhangqi Jiang**, Junkai Chen, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang
 
-_arXiv_, 2024
+_CVPR_, 2025
 
 TL;DR: We address how LVLMs process visual information and whether this process causes hallucination.
 First, we identify the middle layers are crucial for handling visual data in LVLMs, which can be further divided into two stages: **visual information enrichment** and **semantic refinement**.
