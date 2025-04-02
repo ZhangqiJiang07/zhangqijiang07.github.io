@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : #"Zhang-Qi Jiang"
+title                    : "Zhang-Qi Jiang"
 description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : #"ZhangqiJiang07/zhangqijiang07.github.io"
+repository               : "ZhangqiJiang07/zhangqijiang07.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
