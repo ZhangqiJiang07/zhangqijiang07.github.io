@@ -1,5 +1,5 @@
 
-# Publications
+# Selected Publications
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div align="center"><img src='images/pub_figs/middle_layers.png' alt="sym" width="65%"></div></div></div>
