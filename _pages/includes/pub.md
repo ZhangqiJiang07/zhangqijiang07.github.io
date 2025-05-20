@@ -10,10 +10,7 @@
 
 _CVPR_, 2025
 
-TL;DR: We address how LVLMs process visual information and whether this process causes hallucination.
-First, we identify the middle layers are crucial for handling visual data in LVLMs, which can be further divided into two stages: **visual information enrichment** and **semantic refinement**.
-Second, we find that real tokens consistently receive higher attention weights than hallucinated ones, serving as a strong indicator of hallucination.
-Third, we observe that hallucination tokens often result from attention heads interacting with inconsistent objects.
+TL;DR: Delving into how VLMs process visual information from image tokens and how this affects the generation of *object hallucinations*.
 </div>
 </div>
 
@@ -27,7 +24,7 @@ Third, we observe that hallucination tokens often result from attention heads in
 _AAAI_, 2024 \\
 \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]
 
-TL;DR: To tackle the double missing of features and labels problem, we propose a novel deep learning model by incorporating graph neural networks and semi-supervised learning into a unified framework.
+TL;DR: To tackle the dual incompleteness of views and labels problem, we leverage graph neural networks for view recovery and a pseudo-labeling strategy for mining supervision information.
 </div>
 </div>
 
