@@ -2,7 +2,7 @@
 # Selected Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div align="center"><img src='images/pub_figs/middle_layers.png' alt="sym" width="65%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div align="center"><img src='images/pub_figs/middle_layers.png' alt="sym" width="30%"></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](http://arxiv.org/abs/2411.16724) \\
@@ -15,7 +15,7 @@ TL;DR: Delving into how VLMs process visual information from image tokens and ho
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/DIMvLN.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Incomplete Multi-View Learning Network with Insufficient Label Information](https://ojs.aaai.org/index.php/AAAI/article/view/29189) \\
@@ -29,7 +29,7 @@ TL;DR: To tackle the dual incompleteness of views and labels problem, we leverag
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/multiSurv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub_figs/multiSurv.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pancancer survival prediction using a deep learning architecture with multimodal representation and integration](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad006/6998218) \\
