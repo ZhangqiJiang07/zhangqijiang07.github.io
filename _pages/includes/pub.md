@@ -4,12 +4,12 @@
 <div class='paper-box'>
 <div class='paper-box-text-without-img' markdown="1">
 
-<p style="margin: 0; color: #982B34;">Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation</p> \\
+<span style="margin: 0; color: #982B34;">Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation</span> \\
 **Zhangqi Jiang**, Tingjin Luo, Xu Yang, Xinyan Liang
 
 _Coming soon_
 
-TL;DR: 
+TL;DR: We present the first framework to tackle the Sub-Cluster Problem in incomplete GMvSSL via a min-max optimization framework and tensor-based structure recovery.
 </div>
 </div>
 
@@ -17,12 +17,12 @@ TL;DR:
 <div class='paper-box'>
 <div class='paper-box-text-without-img' markdown="1">
 
-<p style="margin: 0; color: #982B34;">Label Prompts Graph: Incomplete Multi-view Semi-Supervised Classification with Adaptive Graph Regularization</p> \\
+<span style="margin: 0; color: #982B34;">Label Prompts Graph: Incomplete Multi-view Semi-Supervised Classification with Adaptive Graph Regularization</span> \\
 Tingjin Luo$^\dagger$, **Zhangqi Jiang**$^\dagger$, Chenping Hou
 
 _Coming soon_
 
-TL;DR: 
+TL;DR: Can we automatically learn optimal partial similarity graphs from incomplete multi-view data with the help of extrinsic supervised signals from labels?
 </div>
 </div>
 
@@ -52,7 +52,7 @@ TL;DR: Delving into how VLMs process visual information from image tokens and ho
 _AAAI_, 2024
 \[[**code**](https://github.com/ZhangqiJiang07/code_DIMvLN)\]
 
-TL;DR: To tackle the dual incompleteness of views and labels problem, we leverage graph neural networks for view recovery and a pseudo-labeling strategy for mining supervision information.
+TL;DR: To tackle the dual incompleteness of views and labels problem in multi-view scenarios, we leverage graph neural networks for view recovery and a pseudo-labeling strategy for mining supervision information.
 </div>
 </div>
 
