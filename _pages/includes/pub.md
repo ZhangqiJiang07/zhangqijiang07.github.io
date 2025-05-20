@@ -2,7 +2,7 @@
 # Selected Publications
 
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text-without-img' markdown="1">
 
 Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation \\
 **Zhangqi Jiang**, Tingjin Luo, Xu Yang, Xinyan Liang
@@ -15,7 +15,7 @@ TL;DR:
 
 
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text-without-img' markdown="1">
 
 Label Prompts Graph: Incomplete Multi-view Semi-Supervised Classification with Adaptive Graph Regularization\\
 Tingjin Luo$^\dagger$, **Zhangqi Jiang**$^\dagger$, Chenping Hou
