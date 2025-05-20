@@ -22,6 +22,7 @@ Hi! I am a second-year M.S. student in *Systems Science* at [National University
 
 I work on **improving the reliability and safety of deep learning models**. During my Master’s program, I am interested in learning robust multi-view models against incomplete data and limited supervision information. Currently, I also research hallucinations in Vision-Language Models, working with Assoc. Prof. [Xu Yang](https://yangxuntu.github.io/) from Southeast University.
 
+Links: [[CV](../pdf/JZQ_CV.pdf)]
 
 {% include_relative includes/news.md %}
 
