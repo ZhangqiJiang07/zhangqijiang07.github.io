@@ -1,7 +1,7 @@
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div align="center"><img src='images/pub_figs/middle_layers.png' alt="sym" width="60%"></div></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation \\
@@ -13,7 +13,7 @@ TL;DR:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div align="center"><img src='images/pub_figs/middle_layers.png' alt="sym" width="60%"></div></div></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 Label Prompts Graph: Incomplete Multi-view Semi-Supervised Classification with Adaptive Graph Regularization\\
