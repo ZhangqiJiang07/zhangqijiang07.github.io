@@ -6,6 +6,7 @@
 
 Adversarial Graph Fusion for Incomplete Multi-view Semi-supervised Learning with Tensorial Imputation \\
 **Zhangqi Jiang**, Tingjin Luo, Xu Yang, Xinyan Liang
+
 _Coming soon_
 
 TL;DR: 
