@@ -1,5 +1,5 @@
 
-# Selected Publications
+# Selected Publications <small style="color: gray;">($\dagger$ indicates equal contribution.)</small>
 
 <div class='paper-box'>
 <div class='paper-box-text-without-img' markdown="1">
